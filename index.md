@@ -1,7 +1,7 @@
----
-peppypedia: V.0.2.6
-developers: MiloTilo, qwrmolly
----
+<table>
+ <tr>
+  <th>peppypedia: V.0.2.6</th>
+  <th>developers: MiloTilo, qwrmolly</th>
  
 * peppypedia can be seen [here](https://windowsmeosu.github.io/peppypedia)
  
