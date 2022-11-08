@@ -11,7 +11,7 @@ The peppyblog is a blog designed for those who likes blogging, note this is not 
  
   1. well first you need to go to here: [githublink](https://github.com/WindowsMeosu/windowsmeosu.github.io/tree/master)
 
-  2.  Find the peppyblog/blogs directory
+  2.  Find the peppyblog/_posts directory
  
   3.  Click on 'Create a new file' and end the title with ".md" (not .html)
  
