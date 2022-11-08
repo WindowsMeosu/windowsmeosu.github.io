@@ -1,11 +1,9 @@
- ---
+---
  layout: post
  title:  "introducing_the_peppyblog"
  date:   2022-11-08 10:26 +1
  category: on-topic
- ---
-
-
+---
 <b><i><p>posted by: Windows Me</p></i></b>
  <p align="center">
     <h1 align="center">
