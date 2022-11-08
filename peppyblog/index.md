@@ -9,7 +9,7 @@ The peppyblog is a blog designed for those who likes blogging, note this is not 
    How do I post a blog?
   
  
-  1. well first you need to go to here: https://github.com/WindowsMeosu/windowsmeosu.github.io/peppyblog
+  1. well first you need to go to here: [githublink](https://github.com/WindowsMeosu/windowsmeosu.github.io/tree/master)
 
   2.  Find the peppyblog/blogs directory
  
