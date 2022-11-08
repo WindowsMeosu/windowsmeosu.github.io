@@ -33,4 +33,4 @@
 		{% endfor %}
 	</channel>
 </rss>
-<!-- too lazy to fill this out... I mean who would blame me? -->
+<!-- too lazy to fill this out... I mean who would blame me? It still gets filled out anyway automatically...-->
