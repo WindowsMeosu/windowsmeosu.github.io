@@ -5,4 +5,4 @@
           <th align="center">
             <table><th><h1>Welcome to the peppyblog</h1>
               <p>The peppyblog is for osu! creators to blog random stuff going around osu! (I'll allow off-topic related content to appear one-day but this is good for now)</p>
-              <p>Note: Please use common sense about what should be posted here. (e.g don't make posts for discrimination purposes... no porn/ecchi/aheago/etc.)
+             <p>Note: Please use common sense before posting here.</p>
