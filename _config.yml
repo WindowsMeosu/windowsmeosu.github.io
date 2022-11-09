@@ -4,5 +4,5 @@ feed_items: 90
 feed_update_period: daily
 feed_update_frequency: 2
 collections:
-categories:
+categories: peppyblog, peppytube
 output: true
