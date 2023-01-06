@@ -1,0 +1,16 @@
+{
+    "name": "arandomtheme",
+     "version": "0.0.1",
+     "repository": "milotilo.ddns.net/open-source/arandomtheme",
+     "license": "EPL",
+     "publisher": "MiloTilo",
+     "engines": {
+       "vscode": "^1.8.0"
+     },
+
+           "pricing": "Free"
+         }
+    
+   
+     
+   
