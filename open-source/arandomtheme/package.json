@@ -1,16 +1,15 @@
 {
     "name": "arandomtheme",
-     "version": "0.0.1",
-     "repository": "milotilo.ddns.net/open-source/arandomtheme",
-     "license": "EPL",
-     "publisher": "MiloTilo",
-     "engines": {
-       "vscode": "^1.8.0"
-     },
-
-           "pricing": "Free"
-         }
-    
-   
-     
-   
+    "description": "This doesn't work as expected, it doesn't even work at all, ARandoMTheme needs more testing.",
+    "version": "0.0.2",
+    "repository": "milotilo.ddns.net/open-source/arandomtheme",
+    "license": "EPL",
+    "publisher": "MiloTilo",
+    "engines": {
+        "vscode": "^1.8.0"
+    },
+    "pricing": "Trial",
+    "dependencies": {
+        "arandomtheme": "^0.0.1"
+    }
+}
