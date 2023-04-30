@@ -1,11 +1,11 @@
-# NOTE:
+##### NOTE:
 site rework soon:
 the following projects are affected: (including this site)
 peppypedia
 peppypedia-old
 changelogs
 osu!-for-newbies
-The rework will happen from this month to April starting today.
+The rework will happen from this April to July starting today.
 
 <table>
  <tr>
