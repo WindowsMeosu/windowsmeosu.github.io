@@ -1,5 +1,3 @@
-# peppypedia
-
 * peppypedia is currently active.
 <!-- # peppypedia is temporary down
 
