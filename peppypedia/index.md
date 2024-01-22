@@ -1,1 +1,5 @@
-# peppypedia
+<!-- # peppypedia -->
+<h1>peppypedia</h1>
+
+<p>it appears peppypedia is down...</p>
+<h6>contact: https://osu.ppy.sh/community/chat?sendto=28893698</h1>

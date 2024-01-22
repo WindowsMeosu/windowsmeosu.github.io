@@ -1,11 +1,6 @@
 ##### NOTE:
-site rework soon:
-the following projects are affected: (including this site)
-peppypedia
-peppypedia-old
-changelogs
-osu!-for-newbies
-The rework will happen from this April to July starting today.
+
+peppypedia will be down for a short period of time to prepare for a couple of changes that will be taking place.
 
 <table>
  <tr>
@@ -18,19 +13,5 @@ The rework will happen from this April to July starting today.
 
 
 
-
-<table>
-  <tr>
-    <th>osu!meerkat: V.0.1.9</th>
-    <th>developers: Windows Me</th>
-
-
-
-osu!meerkat is currently private, site last active at https://windowsmeosu.github.io/osu-meerkat
-
  * see changelogs [here](https://windowsmeosu.github.io/changelogs)
- 
- Other projects:
- [peppyblog](/peppyblog)
- 
  
